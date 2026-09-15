@@ -1,0 +1,11 @@
+order_id,customer,category,quantity,price,region
+1,Ali,Electronics,2,500,Karachi
+2,Ahmed,Clothing,3,1000,Lahore
+3,Sara,Electronics,1,800,Karachi
+4,Hassan,Clothing,2,700,Islamabad
+5,Ayesha,Electronics,3,1200,Lahore
+6,Usman,Clothing,1,900,Karachi
+7,Fatima,Electronics,2,600,Islamabad
+8,Bilal,Clothing,4,500,Lahore
+9,Zainab,Electronics,1,1500,Karachi
+10,Omar,Clothing,2,800,Islamabad
